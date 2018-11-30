@@ -1,0 +1,122 @@
+/* *
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{    
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+body
+{
+    font-family: monospace;
+}
+
+.hero
+{
+    position: absolute;
+}
+
+h1
+{
+    color: #F46D25;
+    text-transform: uppercase;
+    font-size: 120px;
+    text-align: center;
+    margin-top: 275px;
+}
+
+.button
+{
+    display: flex;
+    justify-content: center;
+}
+
+.btn
+{
+    border: 1px solid #F46D25;
+    padding: 10px 30px;
+    color: #F46D25;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 26px;
+    text-transform: uppercase;
+}
+
+.btn-one
+{
+    font-family: "Avenir", sans-serif;
+}
+
+.btn-one:hover
+{
+    color: white;
+    background-color: #F46D25;
+    border: 1px solid #F46D25;
+    transition: all 0.2s ease-in;
+}
+
+.btn-two
+{
+    font-family: "Avenir", sans-serif;
+}
+
+.btn-two:hover
+{
+    color: white;
+    background-color: #F46D25;
+    border: 1px solid #F46D25;
+    transition: all 0.2s ease-in;
+}
+
+.a
+{
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.middle
+{
+    line-height: 200px;
+    height: 200px;
+    text-align: center;
+} */
+
+div {
+    width: 100%;
+	height: 200px;
+
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	
+	margin: auto;
+    text-align: center;
+}
+
+.btn
+{
+    border: 1px solid #F46D25;
+    padding: 10px 30px;
+    color: #F46D25;
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    font-family: "Avenir", sans-serif;
+}
+
+.btn:hover
+{
+    color: white;
+    background-color: #F46D25;
+    border: 1px solid #F46D25;
+    transition: all 0.2s ease-in;
+}

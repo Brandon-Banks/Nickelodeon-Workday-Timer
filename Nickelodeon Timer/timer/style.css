@@ -1,0 +1,52 @@
+body 
+{
+    background-color: white;
+}
+
+h1
+{
+    color: #F46D25;
+    text-transform: uppercase;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 275px;
+    font-family: "Avenir", sans-serif;
+}
+
+h2
+{
+    border: 1px solid #585858;
+    padding: 10px 30px;
+    color: #585858;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+#startValuesAndTargetExample
+{
+    position: absolute;
+    width: 1200px;
+    margin-left: 0;
+    margin-top: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.values
+{
+    color: #F46D25;
+    text-transform: uppercase;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 275px;
+
+}
+
+.progress_bar
+{
+    color: #F46D25;
+    text-transform: uppercase;
+    font-size: 70px;
+    text-align: center;
+}
